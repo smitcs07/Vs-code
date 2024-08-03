@@ -1,0 +1,1 @@
+var $cityName = "New York";

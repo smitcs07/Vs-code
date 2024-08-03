@@ -23,7 +23,18 @@ var _myLastName$ = "Doe";
 //? Explanation: This is not a valid variable name. It starts with a number, which is not allowed as per JavaScript naming rules. Variable names cannot begin with a digit.
 
 var $cityName = "New York";
+console.log($cityName);
 //? Explanation: This is a valid variable name. It starts with a dollar sign, and the subsequent characters include letters. Follows JavaScript naming rules.
-
+// var name ="smit";
+// var name="smit";
+const d= "smit";
+const name= "smit";
+let f= "smit";
+let c= "smit";
 // var my@Email = "john@example.com";
 //? Explanation: This is not a valid variable name. It includes the special character '@', which is not allowed in JavaScript variable names. Only letters, numbers, underscores, and dollar signs are allowed.
+
+
+
+
+
